@@ -1,1 +1,3 @@
 "Name: Hassan Tariq" 
+Email: hassan.t@ucp.edu.pk
+Department: FOIT
